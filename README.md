@@ -1,0 +1,1 @@
+Presentation I gave at the Groovy Users of Minnesota group on Feb 12th 2013.
